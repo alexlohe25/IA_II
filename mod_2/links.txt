@@ -1,0 +1,7 @@
+Dataset: https://www.kaggle.com/datasets/unexpectedscepticism/11945-pokemon-from-first-gen
+
+Google Collab
+    CNN_I: https://colab.research.google.com/drive/1j0c2pHK2AazIykUF3uzBPRRXFyeUx7BI?usp=sharing
+    CNN_II: https://colab.research.google.com/drive/1j0c2pHK2AazIykUF3uzBPRRXFyeUx7BI?usp=sharing
+
+Video: https://youtu.be/YCNQdehrIqY
