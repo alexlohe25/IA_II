@@ -1,0 +1,10 @@
+Entregable 1:
+-Implementación de index a firm
+-Agrupación por trimestre tras calcular retornos anuales
+-Explicación matrices varianza/covarianza y correlación
+-Mejora en leverage points y Explicación
+-Implementación de distancia de Cooks como propuesta para mejorar el modelo
+
+Entregable 2:
+-Implementación de SARIMA con Q = 1
+-Mejora en la graficación de la predicción a través de los Forecaste del SARIMA
