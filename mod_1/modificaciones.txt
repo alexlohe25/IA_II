@@ -1,0 +1,5 @@
+Modificaciones:
+-Imagenes de las graficas de Tableau
+-Obtencion del score del modelo
+-Predicciones del modelo contabilizadas
+-Documentacion corta de los pasos seguidos
